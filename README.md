@@ -1,2 +1,2 @@
 # phaser-learning
-Just learn phaser
+Just to learn phaserjs
